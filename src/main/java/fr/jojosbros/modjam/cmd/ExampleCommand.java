@@ -1,4 +1,4 @@
-package fr.jojosbros.modjam;
+package fr.jojosbros.modjam.cmd;
 
 import com.hypixel.hytale.protocol.GameMode;
 import com.hypixel.hytale.server.core.Message;

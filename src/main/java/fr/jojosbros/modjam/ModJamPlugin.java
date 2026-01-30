@@ -3,6 +3,7 @@ package fr.jojosbros.modjam;
 import com.hypixel.hytale.logger.HytaleLogger;
 import com.hypixel.hytale.server.core.plugin.JavaPlugin;
 import com.hypixel.hytale.server.core.plugin.JavaPluginInit;
+import fr.jojosbros.modjam.cmd.ExampleCommand;
 
 import javax.annotation.Nonnull;
 
